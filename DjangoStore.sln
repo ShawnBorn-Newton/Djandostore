@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DjangoStore", "DjangoStore\DjangoStore.pyproj", "{68F050FE-48B3-4B39-982C-905C24296EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68F050FE-48B3-4B39-982C-905C24296EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F050FE-48B3-4B39-982C-905C24296EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F050FE-48B3-4B39-982C-905C24296EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F050FE-48B3-4B39-982C-905C24296EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5AD3962-C0A4-440E-A045-D82B010AED16}
+	EndGlobalSection
+EndGlobal
